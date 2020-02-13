@@ -1,0 +1,38 @@
+::-webkit-input-placeholder {
+  color: gray;
+}
+
+::-moz-placeholder {
+  color: gray;
+}
+
+:-ms-input-placeholder {
+  color: gray;
+}
+
+::-ms-input-placeholder {
+  color: gray;
+}
+
+::placeholder {
+  color: gray;
+}
+
+.clsss-class {
+  font-size: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Toolbar {
+  background-color: rebeccapurple;
+  color: white;
+  border: 1px solid green;
+}
